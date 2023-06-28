@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1dd983c-68c9-4db1-acb0-1a94d09050b8" name="Changes" comment="data">
-      <change afterPath="$PROJECT_DIR$/data/train_tmp.csv" afterDir="false" />
+    <list default="true" id="a1dd983c-68c9-4db1-acb0-1a94d09050b8" name="Changes" comment="finished cleaning data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bulldozer_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bulldozer_price_prediction.ipynb" afterDir="false" />
     </list>
@@ -68,6 +67,7 @@
     <MESSAGE value="setting up project" />
     <MESSAGE value="adding data" />
     <MESSAGE value="data" />
-    <option name="LAST_COMMIT_MESSAGE" value="data" />
+    <MESSAGE value="finished cleaning data" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished cleaning data" />
   </component>
 </project>
